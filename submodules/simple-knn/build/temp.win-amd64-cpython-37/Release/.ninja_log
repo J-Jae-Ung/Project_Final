@@ -1,0 +1,4 @@
+# ninja log v5
+1	6484	7315604976785921	C:/Users/admin/pinokio/api/gaussian-splatting.git/submodules/simple-knn/build/temp.win-amd64-cpython-37/Release/ext.obj	9bb4e07f987677a7
+7	8465	7315604996536696	C:/Users/admin/pinokio/api/gaussian-splatting.git/submodules/simple-knn/build/temp.win-amd64-cpython-37/Release/simple_knn.obj	ca61b7c4cce78216
+12	18820	7315605099950580	C:/Users/admin/pinokio/api/gaussian-splatting.git/submodules/simple-knn/build/temp.win-amd64-cpython-37/Release/spatial.obj	d8014c9557f7e30b
