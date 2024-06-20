@@ -88,11 +88,6 @@ Below would be a template
 start viewers/bin/SIBR_GaussianViewer_app.exe . -m <output_folder>
 ```
 
-And you can use it like below:
-
-https://github.com/graphdeco-inria/gaussian-splatting/assets/40643808/0940547f-1d82-4c2f-a616-44eabbf0f816
-
-
 ## The tutorial ends here. 
 
 The following are a copy of the original repository for references.
