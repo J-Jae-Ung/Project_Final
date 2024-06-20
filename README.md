@@ -90,9 +90,3 @@ start viewers/bin/SIBR_GaussianViewer_app.exe . -m <output_folder>
 
 ## The tutorial ends here. 
 
-The following are a copy of the original repository for references.
-
-This tutorial is made by the team at bycloud AI, feel free to support our endevour in making installation tutorials here! 
-
-
-- *Something is broken, how did this happen?* We tried hard to provide a solid and comprehensible basis to make use of the paper's method. We have refactored the code quite a bit, but we have limited capacity to test all possible usage scenarios. Thus, if part of the website, the code or the performance is lacking, please create an issue. If we find the time, we will do our best to address it.
